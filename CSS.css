@@ -1,0 +1,257 @@
+* {
+    max-width: 100%;
+}
+
+#head {
+    max-width: 100vw;
+    height: 47vw;
+}
+
+#second-rule {
+    position: absolute;
+    width: 100vw;
+    height:0.1vw;
+    top: 0vw;
+}
+
+#Top_Nav {
+    width: 100vw;
+    height: 5.4vw;
+}   
+
+.Top_Nav2 {
+    width: 100vw;
+    height:0.3vw;
+}
+
+    #body {
+    margin:0px;
+    height: 150vw;
+    opacity:1; 
+    overflow-x: hidden;
+}
+
+#h1-bot {
+    position:absolute;
+    top:0vw;
+    left:2vw   
+} 
+
+#logopic {
+    height: 5.1vw;
+    max-width: 100vw;
+}
+    
+.table {
+    font-size:1.8vw;
+    width:20vw;
+    
+}
+
+
+
+
+
+#content {
+    font-size: 4vw;
+    margin:10% 6%;
+    float: left;
+}
+
+
+#ceo-subimage{
+    position: relative;
+    max-width:100vw;
+    height: 45vw;
+    top:5vw;
+    left: 50vw;
+}
+
+ #CEO-image {
+    position:absolute;
+    opacity: 1;
+    
+}
+
+#hire {
+    border: solid 1px;
+    padding: 1%;
+    float:left;
+    font-size:40%;
+    margin-top:1%;
+}
+
+
+
+#Abouttxt{
+    position: relative;
+    color: white;
+}
+
+
+#content-info {
+    position: relative;
+    font-size: 2.5vw;
+    left: 9vw;
+}
+
+#words{
+    font-size: 2.2vw;
+    box-sizing: border-box;
+}
+
+#txtandcontent {
+    position: relative;
+    bottom:23vw;
+    left: 42vw;
+    color: white;
+}
+#About-sec {
+    max-width: 100vw;
+    height: 135vw; 
+    position: relative;
+    bottom: 5vw;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    opacity: 1;
+}
+
+#chesspic{
+    position: relative;
+    top:31vw;
+    right:35vw;
+    max-width:100vw;
+    height:30vw;
+
+}
+
+
+#SKill {
+    position: relative;
+    bottom:230vw;
+        
+}
+
+#Skill-sec {
+    font-size: 5vw;
+    position: absolute;
+    left: 43vw;
+    top:137vw;
+}
+
+#skill-box{
+    width:25.5vw;
+    height:29.5vw;
+    position: absolute;
+    top:155.6vw;
+    border-radius: 20px;
+    left:7%;
+    
+    opacity: 1;
+
+}
+
+#skill-box2{
+    width:25.5vw;
+    height:29.5vw;
+    position: absolute;
+    top:155vw;
+    border-radius: 20px;
+    left: 37%;
+    
+    opacity: 1;
+
+}
+
+#skill-box3{
+    background-color: #141E46;
+    width:25.5vw;
+    height:29.5vw;
+    position: absolute;
+    top:155vw;
+    border-radius: 20px;
+    left:67%;
+    
+    opacity: 1;
+
+}
+
+#skill-box4{
+    background-color: #141E46;
+    width:25.5vw;
+    height:29.5vw;
+    position: absolute;
+    top:190vw;
+    border-radius: 20px;
+    left: 22%;
+    
+    opacity: 1;
+}
+
+#skill-box5{
+    background-color: #141E46;
+    width:25.5vw;
+    height:29.5vw;
+    position: absolute;
+    top:190vw;
+    border-radius: 20px;
+    left: 53%;
+
+
+
+}
+
+.Text-prop {
+    color: white;
+    font-size: 2.1vw;
+    position: absolute;
+    padding:1%;
+    top: 50%;
+
+}
+
+#python-skill {
+    overflow: hidden;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#html5-skill { 
+    overflow: hidden;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#css3-skill { 
+    overflow: hidden;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#photoshop-skill {
+    overflow: hidden;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#graphic-skill { 
+    overflow: hidden;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+
+#Contact{
+    color: lightcyan;
+    font-size: 27px;
+    height: 1vw;
+    margin: 0;
+    position: relative;
+    bottom: 7vw;
+}
+
+a:link {color: #176B87;}
+a:visited {color: purple;}
+a:hover {color:#64CCC5 ;}
+    
+
